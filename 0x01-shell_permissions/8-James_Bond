@@ -1,1 +1,2 @@
-#!/bin/bash mes_Bondchmod 007 hello
+#!/bin/bash
+chmod 007 hello
